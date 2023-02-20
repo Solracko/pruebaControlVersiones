@@ -1,0 +1,62 @@
+/* Importamos las fuentes con un import en CSS, (yo lo prefiero importar junto con los estilos) */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+html {
+  font-family: 'helvetica neue', helvetica, arial, sans-serif;
+}
+
+body {
+  width: 800px;
+  margin: 0 auto;
+  background-color: black
+}
+
+h1, h2 {
+  font-family: 'Gloock', serif;
+}
+
+/* CSS Header */
+
+h1 {
+  font-size: 4rem;
+  text-align: center;
+  font-weight: bolder;
+  color: gold;
+}
+
+
+header p {
+  font-size: 1.3rem;
+  font-weight: bold;
+  text-align: center;
+  color: white
+}
+
+/* CSS Section */
+
+section article {
+  width: 33%;
+  float: left;
+}
+section h2 {
+  font-weight: lighter;
+  color: wheat;
+  text-decoration: underline;
+  text-decoration-style: dotted;
+
+}
+
+section p {
+  margin: 5px 0;
+  color: white;
+}
+
+section ul {
+  margin-top: 0;
+}
+
+h2 {
+  font-size: 1.5rem;
+  letter-spacing: 1px;
+  margin-bottom: 10px;
+  color: white;
+}

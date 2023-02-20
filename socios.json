@@ -1,0 +1,62 @@
+{
+    "squadName" : "Socio",
+    "homeTown" : "Repuestos Fermin",
+    "formed" : 2020,
+    "secretBase" : "Super tower",
+    "active" : true,
+    "members" : [
+    {
+        "socio" : "Paco Fernandez",
+        "edad" : 30,
+        "telf" : "645987321",
+        "dni" : "98945612-L",
+        "dirc" : "C/ Dos de Mayo",
+        "tarj" : "87944"
+    },
+    
+    {
+        "socio" : "Rosario Almeida",
+        "edad" : 30,
+        "telf" : "628954632",
+        "dni" : "38945612-F",
+        "dirc" : "C/ Ana Luisa Benitez",
+        "tarj" : "879456"
+    },
+
+    {
+        "socio" : "Manuel Tuneje",
+        "edad" : 30,
+        "telf" : "912456378",
+        "dni" : "58945612-Z",
+        "dirc" : "Travesia baja",
+        "tarj" : "54874"
+    },
+
+    {
+        "socio" : "Laura Velazco",
+        "edad" : 30,
+        "telf" : "928546312",
+        "dni" : "28945612-M",
+        "dirc" : "Avenida Girasol",
+        "tarj" : "54687"
+    },
+
+    {
+        "socio" : "Carolina Aristes",
+        "edad" : 30,
+        "telf" : "928789456",
+        "dni" : "78945412-J",
+        "dirc" : "C/ Montaña Alta",
+        "tarj" : "54879"
+    },
+
+    {
+        "socio" : "Paco Fernandez",
+        "edad" : 30,
+        "telf" : "928546978",
+        "dni" : "78945652-X",
+        "dirc" : "C/ Los Almendros ",
+        "tarj" : "85946"
+    }
+    ]
+} 
